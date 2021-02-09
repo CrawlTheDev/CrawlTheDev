@@ -1,6 +1,4 @@
 ### Hi there, I'm Crawl 👋
 
-## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/CrawlTheDev/CrawlTheDev">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrawlTheDev&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+[![Crawl's github stats](https://github-readme-stats.vercel.app/api?username=dopecodez&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
