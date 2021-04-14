@@ -4,4 +4,4 @@
 
 ### Projects
 
-[Buudi](https://github.com/buudi/Bot)
+* [Buudi](https://github.com/buudi/Bot)
