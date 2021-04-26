@@ -7,3 +7,4 @@
 ### Projects
 
 * [Buudi](https://github.com/buudi/Bot)
+* [PBOT](https://github.com/Proxity-D/PBOT)
