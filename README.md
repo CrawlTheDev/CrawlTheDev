@@ -9,7 +9,7 @@
 <h5 align="center">
   <code>
     <a href="https://www.twitter.com/ThisCrawl/" title="Twitter Profile"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.discord.com/invite-url/" title="Discord Server"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/discord.svg"> Discord</a></code>
+  <code><a href="https://discord.gg/FxAuwXCAv6/" title="Discord Server"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/discord.svg"> Discord</a></code>
 </h5>
 <br>
 <p align="center">
