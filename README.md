@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.twitter.com/ThisCrawl/" title="Twitter Profile"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.discord.com/invite-url/" title="Discord Server"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/discord.svg"> Discord</a></code>
+    <a href="https://www.twitter.com/ThisCrawl/" title="Twitter Profile"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.discord.com/invite-url/" title="Discord Server"><img width="22" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/discord.svg"> Discord</a></code>
 </h5>
 <br>
 <p align="center">
@@ -28,19 +28,19 @@
 <h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
-  <code><img title="Javascript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/javascript.svg"></code>
-  <code><img title="TypeScript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/typescript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/problem-solving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/sass.svg"></code>
-  <code><img title="React" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/vs-code.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/visual-studio.png"></code>
-  <code><img title="JSON" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/github.svg"></code>
-  <code><img title="npm" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/master/images/npm.svg"></code>
+  <code><img title="Javascript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/javascript.svg"></code>
+  <code><img title="TypeScript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/typescript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/problem-solving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/sass.svg"></code>
+  <code><img title="React" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/react-original.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/vs-code.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/visual-studio.png"></code>
+  <code><img title="JSON" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/github.svg"></code>
+  <code><img title="npm" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/npm.svg"></code>
 </p>
 <hr>
 
