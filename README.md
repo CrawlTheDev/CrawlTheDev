@@ -13,7 +13,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm CrawlTheDev, Software Developer from United States
+  × Software Developer ×
   <br>
    <br>
   💻 I love writing code and learn anythings about it
