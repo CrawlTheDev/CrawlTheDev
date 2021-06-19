@@ -24,9 +24,6 @@
   <br>
   </p>
 
-<hr>
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
-<br>
 <p align="center">
   <code><img title="Javascript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/javascript.svg"></code>
   <code><img title="TypeScript" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/typescript.svg"></code>
@@ -43,8 +40,6 @@
   <code><img title="npm" height="25" src="https://github.com/CrawlTheDev/CrawlTheDev/blob/main/images/npm.svg"></code>
 </p>
 <hr>
-
-<h2 align="center">Stats</h2>
 <br>
 <p align=center>
   <div align=center>
