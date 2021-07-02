@@ -15,12 +15,7 @@
 <p align="center">
   × Software Developer ×
   <br>
-   <br>
-  💻 I love writing code and learn anythings about it
-  <br>
-  📚 I’m currently learning the Python language
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/CrawlTheDev/CrawlTheDev/issues" title="Issues">here</a>
+ Ask me anything about from <a href="https://github.com/CrawlTheDev/CrawlTheDev/issues" title="Issues">here</a>
   <br>
   </p>
 
